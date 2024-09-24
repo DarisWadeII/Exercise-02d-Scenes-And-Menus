@@ -20,3 +20,11 @@ None
 
 ## Created by
 Adam Wade
+
+For the additional 5 points in to get to 20 in Project 2
+
++1 for different sound effects on player bullet, explosions, enemy bullet, and big enemy bullet.
++1 for different background music on start, play scene and continue scene.
++1 for different assets on ship, asteroid/small asteroid, enemy, big enemy, and the big enemy bullet.
++1 for different backgrounds on start, play scene and continue scene.
++1 for a second enemy type with different, asset, movement, sound effect, speed, health, score and different bullet.
