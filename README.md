@@ -21,6 +21,11 @@ None
 ## Created by
 Adam Wade
 
+Project 02—2D Arcade Space Shooter
+9/23/24 - Finished Project 2
+Description : Its an arcade space shooter that uses some free assets from unity store.
+References - https://assetstore.unity.com/publishers/7799, https://assetstore.unity.com/publishers/12739, https://assetstore.unity.com/publishers/52992, and https://assetstore.unity.com/publishers/71779
+
 For the additional 5 points in to get to 20 in Project 2
 
 +1 for different sound effects on player bullet, explosions, enemy bullet, and big enemy bullet.
